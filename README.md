@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 
-- 👯 I’m looking to collaborate on Python projects
+- 👯 I’m looking to collaborate on Web Development Projects
 
-- 🤔 I’m looking for help with Python questions
+- 🤔 I’m looking for help with UI/UX questions
+
+-  🔭 I’m currently working on improving my Ethical Hacking skills
 <!--
 - 😄 Pronouns: ...
 
