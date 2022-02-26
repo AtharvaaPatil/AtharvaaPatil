@@ -7,9 +7,9 @@
 ## I'm a Computer Science Student in my sophomore year!!
 
 - 🔭 Currently Practicing my MERN Stack skills by building amazing projects.
-- 🌱 I’m currently learning Machine Learning and trying to experiment with various fields.
+<!-- - 🌱 I’m currently learning Machine Learning and trying to experiment with various fields. -->
 - 👯 I’m looking to collaborate with other Web developers and Machine Learning enthusiasts
-- 🥅 2022 Goals: Learn more about web3, get a good hold of Machine Learning
+<!-- - 🥅 2022 Goals: Learn more about web3, get a good hold of Machine Learning -->
 - ⚡ Fun fact: I love music and would love to learn how to play the piano
 
 <!-- ### Connect with me:
