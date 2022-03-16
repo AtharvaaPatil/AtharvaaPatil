@@ -8,7 +8,7 @@
 
 - 🔭 Currently Practicing my MERN Stack skills by building amazing projects.
 <!-- - 🌱 I’m currently learning Machine Learning and trying to experiment with various fields. -->
-- 👯 I’m looking to collaborate with other Web developers and Machine Learning enthusiasts
+- 👯 I’m looking to collaborate with other Web developers, Machine Learning and Python enthusiasts
 <!-- - 🥅 2022 Goals: Learn more about web3, get a good hold of Machine Learning -->
 - ⚡ Fun fact: I love music and would love to learn how to play the piano
 
